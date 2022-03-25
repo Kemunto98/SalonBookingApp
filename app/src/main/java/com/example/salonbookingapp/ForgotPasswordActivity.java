@@ -30,6 +30,9 @@ public class ForgotPasswordActivity extends AppCompatActivity {
         sweetAlertDialog.setCancelable(false);
         sweetAlertDialog.setTitleText("Sending link");
 
+        //ksdnckjdnsjcnods
+
+
         findViewById(R.id.btn_sendLink).setOnClickListener(view -> sendLink());
     }
 
