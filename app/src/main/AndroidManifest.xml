@@ -9,10 +9,10 @@
         android:allowBackup="true"
         android:icon="@drawable/salon_image"
         android:label="@string/app_name"
-        tools:replace="android:icon"
         android:roundIcon="@drawable/salon_image"
         android:supportsRtl="true"
-        android:theme="@style/Theme.SalonBookingApp">
+        android:theme="@style/Theme.SalonBookingApp"
+        tools:replace="android:icon">
         <activity
             android:name=".MyBookingsActivity"
             android:exported="false" />
