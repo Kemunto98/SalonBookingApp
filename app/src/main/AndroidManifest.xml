@@ -14,6 +14,12 @@
         android:theme="@style/Theme.SalonBookingApp"
         tools:replace="android:icon">
         <activity
+            android:name=".NotificationActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".NotificationActivity"
+            android:exported="false" />
+        <activity
             android:name=".MyBookingsActivity"
             android:exported="false" />
         <activity
