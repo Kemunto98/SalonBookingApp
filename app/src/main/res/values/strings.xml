@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Salon booking app</string>
+    <string name="sign_in">Sign in</string>
+    <string name="input_error">Field needed</string>
+    <string name="setting_up_photo">Setting up photo</string>
+    <string name="password_length_error">Password too short</string>
+    <string name="password_matching_error">Passwords do not match</string>
+    <string name="creating_account_dialog_title">Creating account</string>
+    <string name="LogIn_dialog_title">Loggin in</string>
+    <string name="send_link_success_title">Email sent</string>
+    <string name="send_link_success_text">Check your email to reste your password</string>
+    <string name="okay">Okay</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="forgot_password_description">Input your email</string>
+</resources>
